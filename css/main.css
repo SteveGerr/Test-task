@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans");
+.menu:hover {
+  background-color: #19263f; }
+
+.navbar a {
+  color: white !important; }
+
+.dropdown-menu {
+  background-color: #287ec2; }
+  .dropdown-menu a:hover {
+    color: black !important;
+    background-color: #8bc63f; }
+
+.navbar-brand-u {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.img-brand {
+  width: 70%; }
+
+.padding-login {
+  padding-left: 125px; }
+
+.header {
+  background-image: url("/img/header/bg_header.png");
+  height: 13%;
+  background-position: center;
+  -webkit-background-size: cover;
+          background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff; }
+
+.content {
+  background-color: #fff; }
+
+.info-block {
+  background-color: #fafafa; }
+  .info-block p {
+    font-size: 14px; }
+
+.footer {
+  background-color: #19263f;
+  color: #ffffff; }
+  .footer__copyright {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 12px; }
+
+html {
+  overflow-x: hidden;
+  min-width: 385px; }
+
+body {
+  background-color: #ffffff !important;
+  font-family: 'PT Sans', sans-serif; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; }
