@@ -49,6 +49,9 @@
   .info-block p {
     font-size: 14px; }
 
+.arcu {
+  text-decoration: underline; }
+
 .footer {
   background-color: #19263f;
   color: #ffffff; }
